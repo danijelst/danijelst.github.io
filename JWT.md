@@ -1,1 +1,5 @@
+layout: page
+title: "JWT"
+permalink: /jwt
+
 Test
